@@ -17,7 +17,7 @@ RESET="\e[0m"
 BOLD="\e[1m"
 CYAN="\033[38;2;0;255;255m"
 
-THEME_NAME="cachyos"
+THEME_NAME="arch"
 BACKUP_SUFFIX=".bak-$THEME_NAME"
 PARAMS=(
   "term_palette: 1e1e2e;f38ba8;a6e3a1;24ffff;89b4fa;f5c2e7;24ffff;24ffff"
