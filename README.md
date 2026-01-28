@@ -17,3 +17,4 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/claudemods/arch-limine-t
 ```
 
 
+<img width="1280" height="800" alt="arch" src="https://github.com/user-attachments/assets/d7db7165-0168-4966-8eeb-0a2cce4c49cf" />
